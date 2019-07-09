@@ -21,8 +21,8 @@ class Constants: NSObject {
     }
 
     struct Timer {
-        static let backgroundTimer = 10.0
-        static let updateSaveTimer = 10
+        static let backgroundTimer = 2*60
+        static let updateSaveTimer = 3*60
         static let geocoderTimeout = 10
     }
 
