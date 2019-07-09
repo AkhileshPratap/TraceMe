@@ -1,0 +1,6 @@
+framework module Pods_TraceMe {
+  umbrella header "Pods-TraceMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
